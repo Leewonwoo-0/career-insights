@@ -1,0 +1,66 @@
+# ====================================
+# PRIVATE FILES - DO NOT COMMIT
+# ====================================
+
+# Core business logic and strategies
+01_investment/
+02_ai_research/
+03_loopie_startup/
+04_neuroscience/
+05_crypto_research/
+06_study_notes/
+07_future_predictions/
+08_coding_study/
+09_research_papers/
+
+# Private folders
+private/
+personal/
+
+# Sensitive executive documents
+EXECUTIVE_SUMMARY.md
+PORTFOLIO_NEUROSCIENCE.md
+FINAL_REPORT.md
+
+# Personal knowledge index
+KNOWLEDGE_KEYWORDS_INDEX.md
+
+# ====================================
+# PUBLIC FILES (Will be committed)
+# ====================================
+# These files are safe to share:
+# - README.md
+# - KNOWLEDGE_MAP.md
+# - portfolio.md
+# - .gitignore
+
+# ====================================
+# System files to ignore
+# ====================================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+*.log
+
+# ====================================
+# Optional: Selective sharing
+# ====================================
+# If you want to share specific files later,
+# you can use: git add -f filename.md
