@@ -227,7 +227,6 @@ Obsidian Brain의 모든 인사이트를 체계적으로 정리한 지식 저장
 - Brain AI 정식 런칭 및 B2B 확장
 - 투자 수익률 연 100% 달성
 - 지식 시스템 5,000 노트 돌파
-- 양자-고전 하이브리드 컴퓨팅 투자
 
 ---
 
@@ -259,12 +258,6 @@ Obsidian Brain의 모든 인사이트를 체계적으로 정리한 지식 저장
 - 코딩 패턴: 15+ 개
 - 논문 분석: 20+ 편
 - 미래 예측: 2025-2030 기술/산업 로드맵
-
-### 영향력 지표
-- 적용 프로젝트: Brain AI (MVP 완성)
-- 투자 개선: 감정매매 80% 감소
-- 학습 효율: 35% 향상
-- 지식 연결: 15,000+ 링크
 
 ---
 
@@ -306,9 +299,9 @@ Obsidian Brain의 모든 인사이트를 체계적으로 정리한 지식 저장
 이 지식 베이스는 개인의 지적 여정을 담은 공개 저장소입니다.
 인사이트를 공유하고 함께 성장하는 것을 환영합니다.
 
-**GitHub**: [github.com/username/knowledge-base]
-**Email**: [contact@example.com]
+**GitHub**: [github.com/Leewonwoo-0/career-insights]
+**Email**: [mytong4@naver.com]
 
 ---
 
-© 2024 Knowledge Base. 지속적으로 진화하는 지식 시스템.
+© 2025 career insights
