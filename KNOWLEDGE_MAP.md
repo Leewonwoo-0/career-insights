@@ -52,14 +52,14 @@ Obsidian Brain의 모든 인사이트를 체계적으로 정리한 지식 저장
 - **B2B2C 전략**: 부모 설득 → 아이 engagement → 기관 확장
 
 #### 84개 알고리즘 카테고리:
-1. BaseDataSet (6) - 발달단계, 성별, 환경, 기질, 애착, 문화
-2. Input Processing (5) - 감정음성, 표정, 수면, 활동량, 센서융합
-3. Weight System (4) - 적응형 가중치, 시공간 패턴, 개인차, 컨텍스트
-4. Neuroscience Module (8) - 도파민, 세로토닌, GABA, 코르티솔 등
-5. Energy System (4) - 에너지 사이클, 피로도, 회복, 최적화
-6. Reinforcement Learning (4) - Multi-agent, Meta, Inverse, Hierarchical
-7. BrainCog Interaction (6) - PFC-편도체, 해마-피질, 기저핵 등
-8. 나머지 10개 카테고리 (총 47개) - 예측, 패턴, 전문가, 루틴, LLM, 추론 등
+1. BaseDataSet (6)
+2. Input Processing (5)
+3. Weight System (4)
+4. Neuroscience Module (8)
+5. Energy System (4)
+6. Reinforcement Learning (4)
+7. BrainCog Interaction (6)
+8. 나머지 10개 카테고리 (총 47개)
 
 ---
 
