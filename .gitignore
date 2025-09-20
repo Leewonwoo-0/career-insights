@@ -1,66 +1,62 @@
 # ====================================
-# PRIVATE FILES - DO NOT COMMIT
+# FOLDER STRUCTURE ONLY - NO CONTENT
 # ====================================
 
-# Core business logic and strategies
-01_investment/
-02_ai_research/
-03_loopie_startup/
-04_neuroscience/
-05_crypto_research/
-06_study_notes/
-07_future_predictions/
-08_coding_study/
-09_research_papers/
+# Ignore all markdown files in subdirectories
+01_investment/*.md
+02_ai_research/*.md
+03_loopie_startup/*.md
+04_neuroscience/*.md
+05_crypto_research/*.md
+06_study_notes/*.md
+07_future_predictions/*.md
+08_coding_study/*.md
+09_research_papers/*.md
 
-# Private folders
+# But keep .gitkeep files to maintain folder structure
+!01_investment/.gitkeep
+!02_ai_research/.gitkeep
+!03_loopie_startup/.gitkeep
+!04_neuroscience/.gitkeep
+!05_crypto_research/.gitkeep
+!06_study_notes/.gitkeep
+!07_future_predictions/.gitkeep
+!08_coding_study/.gitkeep
+!09_research_papers/.gitkeep
+
+# Private folders completely
 private/
 personal/
 
-# Sensitive executive documents
+# Sensitive documents in root
 EXECUTIVE_SUMMARY.md
 PORTFOLIO_NEUROSCIENCE.md
 FINAL_REPORT.md
-
-# Personal knowledge index
 KNOWLEDGE_KEYWORDS_INDEX.md
+README_PRIVATE.md
 
 # ====================================
 # PUBLIC FILES (Will be committed)
 # ====================================
-# These files are safe to share:
+# These will be committed:
 # - README.md
 # - KNOWLEDGE_MAP.md
 # - portfolio.md
 # - .gitignore
+# - All .gitkeep files
 
 # ====================================
-# System files to ignore
+# System files
 # ====================================
-
-# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-
-# Editor files
-.vscode/
-.idea/
 *.swp
 *.swo
 *~
-
-# Temporary files
+.vscode/
+.idea/
 *.tmp
 *.bak
 *.cache
 *.log
-
-# ====================================
-# Optional: Selective sharing
-# ====================================
-# If you want to share specific files later,
-# you can use: git add -f filename.md
