@@ -2,16 +2,16 @@
 # FOLDER STRUCTURE ONLY - NO CONTENT
 # ====================================
 
-# Ignore all markdown files in subdirectories
-01_investment/*.md
-02_ai_research/*.md
-03_loopie_startup/*.md
-04_neuroscience/*.md
-05_crypto_research/*.md
-06_study_notes/*.md
-07_future_predictions/*.md
-08_coding_study/*.md
-09_research_papers/*.md
+# Ignore ALL files in subdirectories except .gitkeep
+01_investment/*
+02_ai_research/*
+03_loopie_startup/*
+04_neuroscience/*
+05_crypto_research/*
+06_study_notes/*
+07_future_predictions/*
+08_coding_study/*
+09_research_papers/*
 
 # But keep .gitkeep files to maintain folder structure
 !01_investment/.gitkeep
@@ -24,26 +24,21 @@
 !08_coding_study/.gitkeep
 !09_research_papers/.gitkeep
 
-# Private folders completely
+# Private folders completely (if they exist)
 private/
 personal/
 
-# Sensitive documents in root
-EXECUTIVE_SUMMARY.md
-PORTFOLIO_NEUROSCIENCE.md
-FINAL_REPORT.md
-KNOWLEDGE_KEYWORDS_INDEX.md
-README_PRIVATE.md
+# ALL root-level markdown files except README.md
+/*.md
+!README.md
 
 # ====================================
 # PUBLIC FILES (Will be committed)
 # ====================================
-# These will be committed:
-# - README.md
-# - KNOWLEDGE_MAP.md
-# - portfolio.md
-# - .gitignore
-# - All .gitkeep files
+# Only these will be committed:
+# - README.md (public overview)
+# - .gitignore (configuration)
+# - All .gitkeep files (folder structure)
 
 # ====================================
 # System files
