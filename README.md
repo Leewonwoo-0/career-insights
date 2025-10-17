@@ -1,7 +1,5 @@
 # Knowledge Base: Cognitive Systems Innovation Portfolio 🧠
 
-**신경과학과 AI의 교차점에서 탄생한 혁신적 인사이트**
-
 ## 📁 Structure
 
 ### 핵심 연구 영역
@@ -27,13 +25,6 @@
 ## 🏆 Impact Metrics
 
 | Category | Achievement |
-|----------|-------------|
-| **Research Papers** | 8 편 (신경과학-AI 융합) |
-| **Algorithms Developed** | 84개 (검증된 신경과학 기반) |
-| **Processing Speed** | <200ms 실시간 추론 |
-| **Prediction Accuracy** | 92% 인지 상태 예측 |
-| **User Engagement** | 73% 일일 활성 사용률 |
-| **Learning Efficiency** | 2.4x 향상 입증 |
 
 ## 🔬 Featured Documents
 
