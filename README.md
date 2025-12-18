@@ -3,17 +3,17 @@
 ## 📁 Structure
 
 ### 핵심 연구 영역
-- **01_investment/** - 5단계 투자 시스템, 온체인 분석, 거시경제
-- **02_ai_research/** - GPU→CPU 패러다임, 원리 기반 학습, 역전파 한계
-- **03_loopie_startup/** - 84개 알고리즘 아동 AI, BrainCog 시스템
-- **04_neuroscience/** - CCRM 모델, 도파민 회로, 인지 최적화
-- **05_crypto_research/** - CVD 분석, 고래 추적, 시장 심리
+- **01_investment/** - 경제 분석
+- **02_ai_research/** - 원리 기반 학습, AI알고리즘, 하드웨어 -> 소프트웨어 모델링 구조
+- **03_loopie_startup/** - 94개 알고리즘 아동 인지발달 뇌 모방 AI (호르몬, 뇌, 에너지 기반)
+- **04_neuroscience/** - 뉴로 사이언스 공부
+- **05_crypto_research/** - 크립토 분석
 
 ### 학습 및 개발
-- **06_study_notes/** - 울트라러닝, Zettelkasten, 지식관리
+- **06_study_notes/** - 울트라러닝, Zettelkasten, 지식관리등 공부한 지식 정리
 - **07_future_predictions/** - BCI, 양자컴퓨팅, 산업 변화
-- **08_coding_study/** - 역전파 알고리즘, Flutter 10단계
-- **09_research_papers/** - AI 근원적 문제, 학습 이론 종합
+- **08_coding_study/** - 코딩 원리이론 학습
+- **09_research_papers/** - 리서치 및 인사이트 정리
 
 ### 메타 문서
 - **KNOWLEDGE_MAP.md** - 전체 지식 구조도
@@ -34,9 +34,9 @@
 - **[CCRM Framework](04_neuroscience/learning-refactoring-ccrm.md)** - 7단계 인지 최적화 모델
 
 ### 🚀 Innovation Projects
-- **[Loopie/Brain AI](03_loopie_startup/)** - 84개 알고리즘 아동 AI
-- **[Investment System](01_investment/)** - 5단계 체계적 투자 프로세스
-- **[AI Evolution Theory](02_ai_research/)** - GPU→CPU 패러다임 전환
+- **[Loopie/Brain AI](03_loopie_startup/)** - 94개 알고리즘 아동 뇌 모방 AI
+- **[Investment System](01_investment/)** - 투자 프로세스 철학
+- **[AI Evolution Theory](02_ai_research/)** - 하드웨어 - 수학 - 소프트웨어 모델링, 관련 연구 공부
 
 ---
 
